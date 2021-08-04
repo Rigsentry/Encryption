@@ -1,0 +1,13 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\bin\Debug\netcoreapp3.1\Text_Encryption.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\bin\Debug\netcoreapp3.1\Text_Encryption.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\bin\Debug\netcoreapp3.1\Text_Encryption.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\bin\Debug\netcoreapp3.1\Text_Encryption.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\bin\Debug\netcoreapp3.1\Text_Encryption.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\bin\Debug\netcoreapp3.1\Text_Encryption.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\obj\Debug\netcoreapp3.1\Text_Encryption.csprojAssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\obj\Debug\netcoreapp3.1\Text_Encryption.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\obj\Debug\netcoreapp3.1\Text_Encryption.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\obj\Debug\netcoreapp3.1\Text_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\obj\Debug\netcoreapp3.1\Text_Encryption.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\obj\Debug\netcoreapp3.1\Text_Encryption.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Text_Encryption\Text_Encryption\obj\Debug\netcoreapp3.1\Text_Encryption.genruntimeconfig.cache
