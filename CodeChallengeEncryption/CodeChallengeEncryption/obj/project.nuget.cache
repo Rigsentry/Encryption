@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSh1mamR0NLpZhUk7vb+wH/KPaHFOhHnKXRiQ8QXhXKXPE5HsnxXD2nl6x2FDKLOOpdoyDWnaOFcKSjRcqDzrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\philipst\\source\\repos\\CodeChallengeEncryption\\CodeChallengeEncryption\\CodeChallengeEncryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\philipst\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\philipst\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

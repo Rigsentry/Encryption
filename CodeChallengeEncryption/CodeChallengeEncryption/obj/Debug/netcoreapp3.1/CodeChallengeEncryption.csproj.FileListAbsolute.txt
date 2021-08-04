@@ -1,0 +1,13 @@
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\bin\Debug\netcoreapp3.1\CodeChallengeEncryption.exe
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\bin\Debug\netcoreapp3.1\CodeChallengeEncryption.deps.json
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\bin\Debug\netcoreapp3.1\CodeChallengeEncryption.runtimeconfig.json
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\bin\Debug\netcoreapp3.1\CodeChallengeEncryption.runtimeconfig.dev.json
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\bin\Debug\netcoreapp3.1\CodeChallengeEncryption.dll
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\bin\Debug\netcoreapp3.1\CodeChallengeEncryption.pdb
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\obj\Debug\netcoreapp3.1\CodeChallengeEncryption.csproj.AssemblyReference.cache
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\obj\Debug\netcoreapp3.1\CodeChallengeEncryption.AssemblyInfoInputs.cache
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\obj\Debug\netcoreapp3.1\CodeChallengeEncryption.AssemblyInfo.cs
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\obj\Debug\netcoreapp3.1\CodeChallengeEncryption.csproj.CoreCompileInputs.cache
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\obj\Debug\netcoreapp3.1\CodeChallengeEncryption.dll
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\obj\Debug\netcoreapp3.1\CodeChallengeEncryption.pdb
+C:\Users\philipst\source\repos\CodeChallengeEncryption\CodeChallengeEncryption\obj\Debug\netcoreapp3.1\CodeChallengeEncryption.genruntimeconfig.cache
